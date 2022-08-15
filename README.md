@@ -7,7 +7,7 @@ Pre-print available at: https://arxiv.org/abs/2208.06178
 Please use the following citation
 
 ```plain
-@journal{Habernal.et.al.2022.arg,
+@article{Habernal.et.al.2022.arg,
   author = {Habernal, Ivan and Faber, Daniel and Recchia, Nicola and
             Bretthauer, Sebastian and Gurevych, Iryna and
             Spiecker genannt Döhmann, Indra and Burchard, Christoph}, 
