@@ -2,7 +2,7 @@
 
 Companion code to our arXiv preprint including the ``RMU:ECHR`` corpus.
 
-Pre-print available at: https://arxiv.org/abs/2112.08159
+Pre-print available at: https://arxiv.org/abs/2208.06178
 
 Please use the following citation
 
