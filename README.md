@@ -49,7 +49,7 @@ After training a model, [evaluate.py](evaluate.py) can be used to evaluate the m
 
 ### Pre-trained models
 
-All pre-trained models are available for download at https://tudatalib.ulb.tu-darmstadt.de/handle/tudatalib/3601
+All pre-trained models are available for download at https://tudatalib.ulb.tu-darmstadt.de/handle/tudatalib/3601?locale-attribute=en
 
 The overall size is about 25 GB.
 
