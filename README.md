@@ -47,3 +47,9 @@ After training a model, [evaluate.py](evaluate.py) can be used to evaluate the m
 
 [importance_model.py](importance_model.py) can be used to train the importance model and evaluate it.
 
+### Pre-trained models
+
+All pre-trained models are available for download at https://tudatalib.ulb.tu-darmstadt.de/handle/tudatalib/3601
+
+The overall size is about 25 GB.
+
